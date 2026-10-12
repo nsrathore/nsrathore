@@ -1,9 +1,9 @@
 ### Hi, I'm Nikhil 👋
 
-Backend and cloud engineer with 5+ years building revenue-critical, HIPAA-regulated systems in **C#/.NET on AWS**. I like turning slow, fragile pipelines into fast, observable services — one of mine took a batch job from about an hour to seconds.
+Backend and cloud engineer with 5+ years building revenue-critical, HIPAA-regulated systems in **C#/.NET on AWS**. I like turning slow, fragile pipelines into fast, observable services - one of mine took a batch job from about an hour to seconds.
 
-- 🏗️ **Day job:** Software Engineer II at Zotec Partners — microservices on AWS ECS and Lambda, Terraform, GitHub Actions, Splunk
-- 🧪 **On the side:** LLM-powered apps with the Claude API — tool-use agents, streaming, guardrails
+- 🏗️ **Day job:** Software Engineer II at Zotec Partners - microservices on AWS ECS and Lambda, Terraform, GitHub Actions, Splunk
+- 🧪 **On the side:** LLM-powered apps with the Claude API - tool-use agents, streaming, guardrails
 - 📚 **Learning now:** distributed systems and Kubernetes
 - 🎓 B.S. Computer Science, Purdue University
 
