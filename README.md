@@ -14,7 +14,7 @@ Backend and cloud engineer with 5+ years building revenue-critical, HIPAA-regula
 | [**AvatureScraper**](https://github.com/nsrathore/AvatureScraper) | Concurrent job-data pipeline: site discovery from CT logs and Common Crawl, feed + HTML parsing, retries and dedup | C#, .NET 10, Polly, AngleSharp |
 | [**Scout AI**](https://github.com/nsrathore/world-cup-scout) · [demo](https://world-cup-scout.nikkirathore.com) | Claude tool-use agent that gathers live squad, form and head-to-head data, then streams a scouting report | Next.js, TypeScript, Claude API, Redis |
 | [**Resume Tailor**](https://github.com/nsrathore/resume-tailor) · [demo](https://resume-tailor.nikkirathore.com) | ATS match scoring and bullet rewriting with rate limiting and schema-validated LLM output | Next.js, TypeScript, Claude API, Zod |
-| [**Portfolio**](https://github.com/nsrathore/portfolio) · [site](https://nikkirathore.com) | Case-study site with an AI assistant that answers questions about my work | Next.js, Tailwind, Claude API |
+| [**Portfolio**](https://github.com/nsrathore/portfolio) · [site](https://nikkirathore.com) | My personal portfolio website: case studies of my work with measurable results, my resume, and an AI assistant that answers questions about my experience | Next.js, Tailwind, Claude API |
 
 ### Tech
 
